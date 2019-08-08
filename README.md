@@ -1,2 +1,3 @@
-# HTML5 Website Template
-A basic template for developing small scale websites.
+# Tic-Tac-Toe
+
+From The Odin Project's [curriculum](https://www.theodinproject.com/courses/javascript/lessons/tic-tac-toe-javascript)
